@@ -22,3 +22,5 @@ input_image_path = 'C:/Users/niede/PycharmProjects/pythonProject2/w4.jpg'
 output_image_path = 'C:/Users/niede/PycharmProjects/pythonProject/w2_sketch.jpg'
 pencil_sketch(input_image_path, output_image_path)
 save(output_image_path)
+
+print('Hallo Welt')
